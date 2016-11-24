@@ -26,6 +26,9 @@ E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\System.Web.WebPages.xml
 E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\System.Web.WebPages.Deployment.xml
 E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\System.Web.WebPages.Razor.xml
 E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\Antlr3.Runtime.pdb
-E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\obj\Debug\Web.API.Filters.csprojResolveAssemblyReference.cache
 E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\obj\Debug\Web.API.Filters.dll
 E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\obj\Debug\Web.API.Filters.pdb
+E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\Autofac.dll
+E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\Autofac.Integration.Mvc.dll
+E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\Autofac.xml
+E:\Rahman\Projects\Web.API.Filters\Web.API.Filters\bin\Autofac.Integration.Mvc.xml

@@ -14,6 +14,7 @@ namespace Web.API.Filters
             config.Filters.Add(new NullArgumentValidationFilter());
             config.Filters.Add(new ModelStateValidationFilter());
             config.Filters.Add(new PerformanceLoggerFilter());
+            config.Filters.Add(new CustomAuthorizationFilterAttribute());
             //config.Filters.Add(new RequiredHttpsFilter());
 
             // Web API routes
